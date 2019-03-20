@@ -4,8 +4,8 @@ minimal_mistakes_skin: "dirt"
 # Site settings
 locale: "en-NZ"
 title_separator: "-"
-title: "MapNet 2018"
-description: "MapNet workshop 2018, Dunedin"
+title: "MapNet 2019"
+description: "MapNet workshop 2019, Wellington"
 url                      : "http://mapnetnz.github.io"
 baseurl                  : "/"        
 repository               : "MapNetNZ/mapnetnz.github.io"
@@ -14,7 +14,7 @@ words_per_minute         : 200
 
 # Site Author
 author:
-  name             : "MapNet 2018"
+  name             : "MapNet 2019"
   avatar           : "/assets/mapnet.jpg"
 
 # Hide feed
