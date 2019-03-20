@@ -1,7 +1,7 @@
 ---
 permalink: /
-Title: "Welcome to the 2018 MapNet workshop"
-excerpt: "Dunedin, 20–21 November."
+Title: "Welcome to the 2019 MapNet workshop"
+excerpt: "Wellington, 18–19 November."
 header:
     overlay_image: "/assets/banner.png"
     overlay_filter: "0"
@@ -11,15 +11,15 @@ header:
 
 <span></span>
 
-# Welcome to the 2018 MapNet meeting
+# Welcome to the 2019 MapNet meeting
 
-MapNet 2018 will be held in Dunedin, New Zealand, at the University of Otago from November 20–21.
+MapNet 2019 will be held in Wellington, New Zealand, at the University of Wellington from November 18–19.
 
 **[Click here to register](/register/)**.
 
-## MapNet 2018
+## MapNet 2019
 
-MapNet 2018 themes include epigenetics, indigenous health genomics, methodology advances and ecosystem and primary sector genomics. The [program](/program/) will be updated closer to the date.
+MapNet 2019 themes include epigenetics, indigenous health genomics, methodology advances and ecosystem and primary sector genomics. The [program](/program/) will be updated closer to the date.
 
 ## Workshop: from sequence to application
 
