@@ -9,7 +9,7 @@ header:
 
 # Contact us
 
-You can email the MapNet 2018 organisers at [mapnet18@otago.ac.nz](mailto:mapnet18@otago.ac.nz). This is the preferred method of contact.
+You can email the MapNet 2018 organisers at [mapnet2011@vuw.ac.nz](mailto:mapnet2019@vuw.ac.nz). This is the preferred method of contact.
 
 If necessary, you can also contact one of the organisers directly:
 - [Shannon Clarke](mailto:Shannon.Clarke@agresearch.co.nz)
