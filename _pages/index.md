@@ -15,7 +15,7 @@ header:
 
 MapNet 2019 will be held in Wellington, New Zealand, at the University of Wellington from November 18–19.
 
-**[Click here to register](/register/)**.
+**[Click here to register](https://vuwgenomics.github.io/mapnet2019.github.io/register/)**.
 
 ## MapNet 2019
 
