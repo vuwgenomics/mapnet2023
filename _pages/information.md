@@ -9,7 +9,7 @@ header:
 
 ## Key dates
 
-| Deadline for abstract submission | 28 September, 2018 |
+| Deadline for abstract submission | 28 September, 2019 |
 | Registration closes | 6 November, 2018 |
 | GBS workshop | 19 November, 2018 |
 | MapNet | 20–21 November, 2018 |
