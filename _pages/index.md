@@ -27,32 +27,6 @@ AgResearch is running and sponsoring a workshop on **genetic analysis using sequ
 
 ## Sponsors
 
-[![dnature](assets/DNature_cropped.png)](https://www.dnature.co.nz/){:target="_blank",rel="noopener"}
-
-<span></span>
-
-[![Illumina](assets/ILLUMINA_LOGO_CMYK_new.jpg)](http://www.illumina.com/){:target="_blank",rel="noopener"}
-
-<span></span>
-
-[![AbacusBio](assets/abacus.jpg)](http://www.abacusbio.com/){:target="_blank",rel="noopener"}
-
-<span></span>
-
-[![AgResearch](assets/agresearch.jpg)](https://www.agresearch.co.nz/){:target="_blank",rel="noopener"}
-
-<span></span>
-
-[![Genetics Otago](assets/GO_logo.jpg)](https://www.otago.ac.nz/genetics/index.html){:target="_blank",rel="noopener"}
-
-<span></span>
-
-[![Genomics Aotearoa](assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz){:target="_blank",rel="noopener"}
-
-<span></span>
-
-[![CustomScience](assets/CustomSci_Logo_CS4.png)](http://customscience.co.nz/){:target="_blank",rel="noopener"}
-
 ---
 
 ### About MapNet 
