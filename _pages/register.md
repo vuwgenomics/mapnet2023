@@ -10,9 +10,9 @@ header:
 # Registration
 
 - **MapNet registration is now open**.
-- Registration for MapNet 2019 is $100 full and $60 student, and includes the conference dinner on 20 November.
+- Registration for MapNet 2019 is $100 full and $60 student, and includes the conference dinner on 19 November.
 - Registrations close on 6 November, 2019.
-- MapNet 2019 will be held in Wellington, New Zealand on 20–21 November, 2018, at Victoria University of Wellington.
+- MapNet 2019 will be held in Wellington, New Zealand on 18-19 November, 2019, at Victoria University of Wellington.
 - Cancellation of registration up until 6 November will result in a full refund except for an administration fee of $20. After 6 November, no refund will be applied. Refunds will only be directed back to those accounts from which the initial payment was made.
 - If you want to attend the pre-conference workshop but not MapNet 2018, use the normal registration link and don't select a conference registration.
 
