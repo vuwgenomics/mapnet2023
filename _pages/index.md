@@ -36,12 +36,5 @@ MapNet is a group of New Zealand-based molecular and quantitative geneticists fr
 We look forward to seeing you there.
 
 The organising committee:
-- [Shannon Clarke](mailto:Shannon.Clarke@agresearch.co.nz)
-- [Rob Elshire](mailto:Rob@elshiregroup.co.nz)
-- [Wenhua Wei](mailto:wenhua.wei@otago.ac.nz)
-- [Phil Wilcox](mailto:phillip.wilcox@otago.ac.nz)
-- [Angela Hendry](mailto:angela.hendry@otago.ac.nz)
-- [Matt Bixley](mailto:matt.bixley@otago.ac.nz)
-- [Tom Harrop](mailto:tom.harrop@otago.ac.nz)
-- [Andrew Hess](mailto:andrew.hess@agresearch.co.nz)
+
 
