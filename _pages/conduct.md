@@ -19,7 +19,7 @@ Participants engaging in harassing behaviour may be sanctioned in any way organi
  
 In addition, if the harassing behaviour is part of a sponsor's display or a talk the display will be removed or the talk stopped without refund of the sponsorship.
 
-**MapNet 2018 participants agree to**:
+**MapNet 2019 participants agree to**:
 
 - Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
 - Refrain from demeaning, discriminatory, or harassing behaviour and speech. Harassment includes, but is not limited to:
@@ -44,19 +44,9 @@ All slides and presentation materials are subject to the code of conduct. Materi
 
 ## Need help?
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the MapNet organisers (listed below) or email [mapnet18@otago.ac.nz](mailto:mapnet18@otago.ac.nz).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the MapNet organisers (listed below) or email [mapnet2019@vuw.ac.nz](mailto:mapnet2019@vuw.ac.nz).
 
 ## MapNet organisers
 
-- [Shannon Clarke](mailto:Shannon.Clarke@agresearch.co.nz)
-- [Rob Elshire](mailto:Rob@elshiregroup.co.nz)
-- [Tony Merriman](mailto:tony.merriman@otago.ac.nz)
-- [Wenhua Wei](mailto:wenhua.wei@otago.ac.nz)
-- [Phil Wilcox](mailto:phillip.wilcox@otago.ac.nz)
-- [Angela Hendry](mailto:angela.hendry@otago.ac.nz)
-- [Tom Harrop](mailto:tom.harrop@otago.ac.nz)
-- [Andrew Hess](mailto:andrew.hess@agresearch.co.nz)
-
-**NOTE**: Phone numbers will be added to the code of conduct for the conference.
 
 #### Adapted with permission from [https://user2018.r-project.org/](https://user2018.r-project.org/code_of_conduct){:target="_blank",rel="noopener"}
