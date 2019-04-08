@@ -21,10 +21,6 @@ MapNet 2019 will be held in Wellington, New Zealand, at the University of Wellin
 
 MapNet 2019 themes include epigenetics, indigenous health genomics, methodology advances and ecosystem and primary sector genomics. The [program](//mapnet2019.github.io/program/) will be updated closer to the date.
 
-## Workshop: from sequence to application
-
-AgResearch is running and sponsoring a workshop on **genetic analysis using sequencing data** the day before MapNet, through the MBIE programme *Genomics for Production & Security in a Biological Economy*. The workshop is free. [Click here for more information](/mapnet2019.github.io/program/#workshop).
-
 ## Sponsors
 
 ---
