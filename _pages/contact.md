@@ -9,15 +9,11 @@ header:
 
 # Contact us
 
-You can email the MapNet 2019 organisers at [mapnet2019@vuw.ac.nz](mailto:mapnet2019@vuw.ac.nz). This is the preferred method of contact.
+You can email the MapNet 2019 organisers at mapnet2019@vuw.ac.nz. This is the preferred method of contact.
 
 If necessary, you can also contact one of the organisers directly:
-- [Shannon Clarke](mailto:Shannon.Clarke@agresearch.co.nz)
-- [Rob Elshire](mailto:Rob@elshiregroup.co.nz)
-- [Wenhua Wei](mailto:wenhua.wei@otago.ac.nz)
-- [Phil Wilcox](mailto:phillip.wilcox@otago.ac.nz)
-- [Angela Hendry](mailto:angela.hendry@otago.ac.nz)
-- [Matt Bixley](mailto:matt.bixley@otago.ac.nz)
-- [Tom Harrop](mailto:tom.harrop@otago.ac.nz)
-- [Andrew Hess](mailto:andrew.hess@agresearch.co.nz)
+
+•	Peter Ritchie
+•	TBA
+
 
