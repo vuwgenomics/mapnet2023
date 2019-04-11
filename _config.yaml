@@ -118,8 +118,8 @@ defaults:
     values:
       author_profile: true
       layout: single
-      author: MapNet 2018
-      excerpt: "Dunedin, 20–21 November."
+      author: MapNet 2019
+      excerpt: "Wellington, 18–19 November."
       header:
         overlay_image: "/assets/banner.png"
         overlay_filter: "0"
