@@ -15,7 +15,7 @@ header:
 
 ## Location
 
-MapNet will be held in the in the Te Toki a Rata (TTR) Building lecture theatre (TTR L1) on the Kelburn Campus at Victoria University of Wellington.
+MapNet will be held in the in the Te Toki a Rata (https://goo.gl/maps/c8pcsTwHtF8RyR5u9) Building lecture theatre (TTR L1) on the Kelburn Campus at Victoria University of Wellington.
 
 ## Travel
 
