@@ -33,4 +33,4 @@ We look forward to seeing you there.
 
 The organising committee:
 
-
+Peter Ritchie
