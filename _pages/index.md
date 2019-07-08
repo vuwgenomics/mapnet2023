@@ -19,7 +19,7 @@ MapNet2019 will be held in Wellington, New Zealand, at the University of Welling
 
 ## MapNet 2019
 
-MapNet2019 themes include bioinformatics, epigenetics, intergrating indigenous  genomics into research and teaching, methodology advances, and ecosystem and primary sector genomics. The [program](//mapnet2019.github.io/program/) will be updated closer to the date.
+MapNet2019 themes include bioinformatics, epigenetics, integrating indigenous  genomics into research and teaching, methodology advances, and ecosystem and primary sector genomics. The [program](//mapnet2019.github.io/program/) will be updated closer to the date.
 
 ## Sponsors
 
