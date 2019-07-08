@@ -3,7 +3,7 @@ main:
       url: /program/
     - title: "Registration and abstract submission"
       url: /register/
-    - title: "Conference information"
+    - title: "Information"
       url: /info/
     - title: "Conduct"
       url: /conduct/
