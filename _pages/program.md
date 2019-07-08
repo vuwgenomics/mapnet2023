@@ -19,6 +19,6 @@ Sesson topics include:
 - Primary sector genomics
 - Bioinformatics and analytical approaches
 
-The conference dinner will be at The Backbencher (backbencher.co.nz/) located at 34 Moleworht Street in Thorndon (https://goo.gl/maps/remHhKdHvp9sqDaDA) on the evening of Monday 18 November. The dinner is limited to 75 tickets. Please get in quick with your MapNet2019 registeration if you would like to secure a seat for that event.
+The conference dinner will be at The Backbencher (backbencher.co.nz/) located at 34 Moleworht Street in Thorndon (https://goo.gl/maps/remHhKdHvp9sqDaDA) on the evening of Monday 18 November. The dinner is limited to 75 tickets and costs $45pp. Please get in quick with your MapNet2019 registeration if you would like to secure a seat for that event.
 
 
