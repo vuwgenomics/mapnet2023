@@ -13,13 +13,13 @@ header:
 
 # Welcome to the 2019 MapNet meeting
 
-MapNet 2019 will be held in Wellington, New Zealand, at the University of Wellington from November 18–19.
+MapNet2019 will be held in Wellington, New Zealand, at the University of Wellington from November 18–19.
 
 **[Click here to register](https://vuw.eventsair.com/mapnet-2019/mapnet2019)**.
 
 ## MapNet 2019
 
-MapNet 2019 themes include epigenetics, indigenous health genomics, methodology advances and ecosystem and primary sector genomics. The [program](//mapnet2019.github.io/program/) will be updated closer to the date.
+MapNet2019 themes include bioinformatics, epigenetics, intergarting indigenous  genomics into research and teaching, methodology advances and ecosystem and primary sector genomics. The [program](//mapnet2019.github.io/program/) will be updated closer to the date.
 
 ## Sponsors
 
