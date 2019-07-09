@@ -11,7 +11,7 @@ header:
 
 [**Click here for the conference schedule**]<!--(/assets/schedule.pdf).-->
 
-Sesson topics include:
+Session topics include:
 - Primary sector genotyping and breeding
 - Ecological and evolutionary genomics
 - Māori kaupapa/Te Ao Māori into genetics/genomics teaching and research
