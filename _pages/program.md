@@ -15,7 +15,7 @@ Sesson topics include:
 - Methodology advances in statistical genetics
 - Functional genomics and epigenetics
 - Māori kaupapa/Te Ao Māori into genetics/genomics teaching and research
-- Ecological and conservation genomics
+- Ecological and evolutionary genomics
 - Primary sector genomics
 - Bioinformatics and analytical approaches
 
