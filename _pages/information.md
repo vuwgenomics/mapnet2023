@@ -15,7 +15,7 @@ header:
 
 ## Location
 
-MapNet2019 will be held in the Te Toki a Rata building (https://goo.gl/maps/c8pcsTwHtF8RyR5u9) lecture theatre (TTR L1) on the Kelburn Campus at Victoria University of Wellington.
+MapNet2019 will be held in the Te Toki a Rata building <https://goo.gl/maps/c8pcsTwHtF8RyR5u9> lecture theatre (TTR L1) on the Kelburn Campus at Victoria University of Wellington.
 
 ## Travel
 
@@ -24,7 +24,7 @@ Wellington airport (WLG) is about 9 km to Victoria University. Taxis from the ai
 
 ## Accommodation
 
-The best low cost and convenient accomodation option for MapNet2019 is Te Puni Village https://www.mystudentvillage.com/nz/short-stays-newzealand/te-puni-village Click on "Book now". Use the code MapNet2019 in the promo field after selecting the dates for your stay.
+The best low cost and convenient accomodation option for MapNet2019 is [Te Puni Village](https://www.mystudentvillage.com/nz/short-stays-newzealand/te-puni-village) Click on "Book now". Use the code MapNet2019 in the promo field after selecting the dates for your stay.
 
 
 Conference organising committee:
