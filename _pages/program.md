@@ -17,7 +17,7 @@ Sesson topics include:
 - Māori kaupapa/Te Ao Māori into genetics/genomics teaching and research
 - Genomics and eDNA
 - Methodology advances in statistical genetics
-- Functional genomics
+- Human and health genomics
 
 Email your abstract to mapnet2019@vuw.ac.nz
 
