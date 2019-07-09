@@ -12,12 +12,12 @@ header:
 [**Click here for the conference schedule**]<!--(/assets/schedule.pdf).-->
 
 Sesson topics include:
+- Primary sector genomics 
+- Ecological and evolutionary genomics
+- Māori kaupapa/Te Ao Māori into genetics/genomics teaching and research
+- Bioinformatics and eDNA
 - Methodology advances in statistical genetics
 - Functional genomics
-- Māori kaupapa/Te Ao Māori into genetics/genomics teaching and research
-- Ecological and evolutionary genomics
-- Primary sector genomics
-- Bioinformatics and eDNA
 
 Email your abstract to mapnet2019@vuw.ac.nz
 
