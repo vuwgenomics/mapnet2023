@@ -23,7 +23,9 @@ MapNet2019 themes include bioinformatics, epigenetics, integrating indigenous  g
 
 ## Sponsors
 
----
+[![VUW](assets/Wellington_Logo_CMYK.jpg)](http://www.victoria.ac.nz/){:target="_blank",rel="noopener"}
+
+<span></span>
 
 ### About MapNet 
 
@@ -33,3 +35,5 @@ We look forward to seeing you in Wellington.
 
 
 Peter Ritchie
+
+
