@@ -24,10 +24,10 @@ MapNet2019 themes include primary sector genomics, bioinformatics, integrating i
 ## Sponsors
 
 [![VUW](../assets/Wellington_Logo_CMYK.jpg)](http://www.victoria.ac.nz/){:target="_blank"}
-
+   
 <span></span>
 
-[![CustomScience](../assets/CustomSci_Logo_CS4.png)](http://customscience.co.nz/)
+[![CustomScience](../assets/CustomSci_Logo_CS4.png)](http://customscience.co.nz/){:target="_blank"}
 
 ### About MapNet 
 
