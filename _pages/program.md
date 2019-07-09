@@ -13,11 +13,11 @@ header:
 
 Sesson topics include:
 - Methodology advances in statistical genetics
-- Functional genomics and epigenetics
+- Functional genomics
 - Māori kaupapa/Te Ao Māori into genetics/genomics teaching and research
 - Ecological and evolutionary genomics
 - Primary sector genomics
-- Bioinformatics and analytical approaches
+- Bioinformatics and eDNA
 
 Email your abstract to mapnet2019@vuw.ac.nz
 
