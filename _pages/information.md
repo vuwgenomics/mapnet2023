@@ -15,11 +15,11 @@ header:
 
 ## Location
 
-MapNet will be held in the in the Te Toki a Rata (https://goo.gl/maps/c8pcsTwHtF8RyR5u9) Building lecture theatre (TTR L1) on the Kelburn Campus at Victoria University of Wellington.
+MapNet will be held in the in the Te Toki a Rata building (https://goo.gl/maps/c8pcsTwHtF8RyR5u9) lecture theatre (TTR L1) on the Kelburn Campus at Victoria University of Wellington.
 
 ## Travel
 
-Wellington airport (WLG) is about 9 km to Victoria. Taxis from the airport cost $50+ and take half an hour or so. There are also shared shuttle services which can drop you in the centre of town or at your accommodation for about $18–25, and take around an hour. The airport bus will take you to the center city, where you can transfer to a bus to VUW.
+Wellington airport (WLG) is about 9 km to Victoria. Taxis from the airport cost $40+ and take half an hour or so. There are also shared shuttle services which can drop you in the centre of town or at your accommodation for about $18–25, and take around an hour. The airport bus will take you to the center city, where you can transfer to a bus to VUW.
 
 
 ## Accommodation
@@ -28,5 +28,5 @@ The best low cost and convenient accomodation option for MapNet 2019 is Te Puni 
 
 
 Conference organising committee:
-Peter Ritchie
+Peter Ritchie, 
 Mel Dohner
