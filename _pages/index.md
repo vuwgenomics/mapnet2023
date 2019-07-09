@@ -13,7 +13,7 @@ header:
 
 # Welcome to the 2019 MapNet meeting
 
-MapNet2019 will be held in Wellington, New Zealand, at the University of Wellington from November 18–19.
+MapNet2019 will be held in Wellington, New Zealand, at Victoria University of Wellington from November 18–19.
 
 **[Click here to register](https://vuw.eventsair.com/mapnet-2019/mapnet2019)**.
 
@@ -36,6 +36,6 @@ MapNet is a group of New Zealand-based molecular and quantitative geneticists fr
 We look forward to seeing you in Wellington.
 
 
-Peter Ritchie
+Peter Ritchie (conference organiser)
 
 
