@@ -15,9 +15,9 @@ Session topics include:
 - Primary sector genotyping and breeding
 - Ecological and evolutionary genomics
 - Māori kaupapa/Te Ao Māori into genetics/genomics teaching and research
-- Genomics and eDNA
+- Microbial genomics and eDNA
 - Methodology advances in statistical genetics
-- Human and health genomics
+- Human & health genomics and epigenomics
 
 Email your abstract to <mapnet2019@vuw.ac.nz>
 
