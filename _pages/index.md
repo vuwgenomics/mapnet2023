@@ -23,11 +23,11 @@ MapNet2019 themes include bioinformatics, epigenetics, integrating indigenous  g
 
 ## Sponsors
 
-[![VUW](/assets/Wellington_Logo_CMYK.jpg)](http://www.victoria.ac.nz/)
+[![VUW](../assets/Wellington_Logo_CMYK.jpg)](http://www.victoria.ac.nz/)
 
 <span></span>
 
-[![CustomScience](/assets/CustomSci_Logo_CS4.png)](http://customscience.co.nz/)
+[![CustomScience](../assets/CustomSci_Logo_CS4.png)](http://customscience.co.nz/)
 
 ### About MapNet 
 
