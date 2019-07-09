@@ -25,3 +25,8 @@ Wellington airport (WLG) is about 9 km to Victoria. Taxis from the airport cost 
 ## Accommodation
 
 The best low cost and convenient accomodation option for MapNet 2019 is Te Puni Village https://www.mystudentvillage.com/nz/short-stays-newzealand/te-puni-village Click on "Book now". Use the code MapNet2019 in the promo field after selecting the dates for your stay.
+
+
+Conference organising committee:
+Peter Ritchie
+Mel Dohner
