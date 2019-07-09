@@ -20,12 +20,13 @@ header:
 
 # Abstracts
 
-- The deadline for abstract submission is 27 September, 2019.
-- Please note that we can’t accept abstracts without registration.
+- The deadline for abstract submission is 5 pm on 27 September, 2019.
+- Please note that we won’t accept abstracts without a conference registration.
 - When you submit your abstract, please let us know which of the sessions you would like to present in
 - After paying for your registration, you can email your abstract to mapnet2019@vuw.ac.nz.
 - Please send each abstract in a separate file.
 
 ________________________________________
-School of Biological Sciences Victoria, University of Wellington, PO Box 600, Wellington 6140, New Zealand
+Email: mapnet2019@vuw.ac.nz
+Postal address: School of Biological Sciences, Victoria, University of Wellington, PO Box 600, Wellington 6140
 
