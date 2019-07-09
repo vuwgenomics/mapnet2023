@@ -16,6 +16,7 @@ header:
 - MapNet 2019 will be held in Wellington, New Zealand on 18-19 November, 2019, at Victoria University of Wellington
 - Cancellation of registration up until 1 November will result in a full refund except for an administration fee of $20. After 1 November, no refund will be applied. Refunds will only be directed back to those accounts from which the initial payment was made.
 
+**[Click here to register](https://vuw.eventsair.com/mapnet-2019/mapnet2019)**.
 
 # Abstracts
 
