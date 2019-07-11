@@ -44,4 +44,7 @@ We look forward to seeing you in Wellington.
 
 Peter Ritchie (conference organiser)
 
+[![MapNet](../assets/mapnet.jpg)]
+   
+<span></span>
 
