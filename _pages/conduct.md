@@ -48,7 +48,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ## MapNet team
 
-Peter Ritchie (e-mail: Peter.Ritchie@vuw.ac.nz)(mailto:Peter.Ritchie@vuw.ac.nz)
+Peter Ritchie e-mail: [Peter.Ritchie@vuw.ac.nz](mailto:Peter.Ritchie@vuw.ac.nz)
 
 TBA
 
