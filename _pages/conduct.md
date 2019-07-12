@@ -32,7 +32,7 @@ In addition, if the harassing behaviour is part of a sponsor's display or a talk
     + Offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion
     + Inappropriate physical contact, which can include grabbing as well as hugging without asking or massaging without asking
     + Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information
-- Alert a member of the code of conduct response team (listed below) if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+- Alert a member of the code of conduct response team (the MapNet team listed below) if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
 If you are asked to stop harassing behaviour, you must stop immediately, even if your behaviour was meant to be friendly or a joke. 
 
@@ -44,9 +44,11 @@ All slides and presentation materials are subject to the code of conduct. Materi
 
 ## Need help?
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the MapNet organisers (listed below) or email [mapnet2019@vuw.ac.nz](mailto:mapnet2019@vuw.ac.nz).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the MapNet team (listed below) or email [mapnet2019@vuw.ac.nz](mailto:mapnet2019@vuw.ac.nz).
 
-## MapNet organisers
+## MapNet team
 
+Peter Ritchie (e-mail: Peter.Ritchie@vuw.ac.nz)mailto:Peter.Ritchie@vuw.ac.nz)
+TBA
 
 #### Adapted with permission from [https://user2018.r-project.org/](https://user2018.r-project.org/code_of_conduct){:target="_blank",rel="noopener"}
