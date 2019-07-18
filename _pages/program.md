@@ -24,7 +24,7 @@ Email your abstract to <mapnet2019@vuw.ac.nz>
 Please send each abstract in a separate file and let us know which of the sessions you would like to present in.
 
 Programme organising committee:
- Peter Ritchie,
+ Peter Ritchie, Miles Benton, 
  Yvan Papa, &
  Tom Oosting
 
