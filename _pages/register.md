@@ -32,7 +32,7 @@ INSTRUCTIONS
 • Abstracts will be submitted as an attachment (MS Word or similar format) to the e-mail: mapnet2019@vuw.ac.nz
 • Title of Abstract has a 15 word limit
 • Body of the Abstract has a 250 word limit
-• If your submission contains figures or diagrams we will try to accomodate them. The organising committee can not be held responsible for formating difficulties, reduced picture quality, or errors that might occur. If they encounter unresolvable difficulties with a figure it might not be included in the published program. We will do our best to reproduce the content of abtracts that contain picture or diagrams
+• If your submission contains figures or diagrams we will try to accomodate them. The organising committee can not be held responsible for formating difficulties, reduced picture quality, or errors that might occur. If they encounter unresolvable difficulties with a figure it might not be included in the published program. We will do our best to reproduce the content of abstracts that contain picture or diagrams
 • Abbreviations should be used only for common terms (for uncommon terms, the abbreviation should be given in brackets after the first full use of the word)
 • Abstracts should be thoroughly checked for correct spelling and grammar before finalising the submission
 • Final formatting will be undertaken by the Programme Organising Committee
