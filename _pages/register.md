@@ -23,19 +23,19 @@ header:
 - Please note that we won’t accept abstracts without a conference registration
 - When you submit your abstract, please let us know which of the sessions you would like to present in
 - After paying for your registration, you can email your abstract to <mapnet2019@vuw.ac.nz>
-- Please send each abstract in a separate file
+- Please send each abstract in a separate file<br />
 – Note: We will try to accomodate all abstract submissions within the oral presentation schedule, however if we receive more abstracts than there are available times we will not be able to provide a presentation opportunity for everyone
 
-INSTRUCTIONS
+INSTRUCTIONS<br />
 • Abstracts must be written in English and/or te reo Māori<br />
 • Include in the abstract: Title, Presenting Author & Affiliations / address, Additional Authors & details, and the body of the abstract<br />
-• Abstracts will be submitted as an attachment (MS Word or similar format) to the e-mail: mapnet2019@vuw.ac.nz
-• Title of Abstract has a 15 word limit
-• Body of the Abstract has a 250 word limit
-• If your submission contains figures or diagrams we will try to accomodate them. The organising committee can not be held responsible for formating difficulties, reduced picture quality, or errors that might occur. If they encounter unresolvable difficulties with a figure it might not be included in the published program. We will do our best to reproduce the content of abstracts that contain picture or diagrams
-• Abbreviations should be used only for common terms (for uncommon terms, the abbreviation should be given in brackets after the first full use of the word)
-• Abstracts should be thoroughly checked for correct spelling and grammar before finalising the submission
-• Final formatting will be undertaken by the Programme Organising Committee
+• Abstracts will be submitted as an attachment (MS Word or similar format) to the e-mail: mapnet2019@vuw.ac.nz<br />
+• Title of Abstract has a 15 word limit<br />
+• Body of the Abstract has a 250 word limit<br />
+• If your submission contains figures or diagrams we will try to accomodate them. The organising committee can not be held responsible for formating difficulties, reduced picture quality, or errors that might occur. If they encounter unresolvable difficulties with a figure it might not be included in the published program. We will do our best to reproduce the content of abstracts that contain picture or diagrams<br />
+• Abbreviations should be used only for common terms (for uncommon terms, the abbreviation should be given in brackets after the first full use of the word)<br />
+• Abstracts should be thoroughly checked for correct spelling and grammar before finalising the submission<br />
+• Final formatting will be undertaken by the Programme Organising Committee<br />
 
 
 ________________________________________
