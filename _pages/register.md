@@ -23,10 +23,10 @@ header:
 - Please note that we won’t accept abstracts without a conference registration
 - When you submit your abstract, please let us know which of the sessions you would like to present in
 - After paying for your registration, you can email your abstract to <mapnet2019@vuw.ac.nz>
-- Please send each abstract in a separate file<br />
-– Note: We will try to accomodate all abstract submissions within the oral presentation schedule, however if we receive more abstracts than there are available times we will not be able to provide a presentation opportunity for everyone<br /><br />
+- Please send each abstract in a separate file<br/>
+– Note: We will try to accomodate all abstract submissions within the oral presentation schedule, however if we receive more abstracts than there are available times we will not be able to provide a presentation opportunity for everyone<br/><br/>
 
-INSTRUCTIONS<br />
+INSTRUCTIONS<br/>
 <li>Abstracts must be written in English and/or te reo Māori</li>
 <li>Include in the abstract: Title, Presenting Author & Affiliations / address, Additional Authors & details, and the body of the abstract</li>
 <li>Abstracts will be submitted as an attachment (MS Word or similar format) to the e-mail: mapnet2019@vuw.ac.nz</li>
