@@ -19,7 +19,7 @@ MapNet 2019 will be held in the [Te Toki a Rata building](https://goo.gl/maps/c8
 
 ## Social Media
 
-If you are using twitter, tag your conference posts #mapn2019
+If you are using twitter, tag your conference posts #mapn19
 
 Please respect the requests of speakers and conference attendees that ask or suggest not to be included in social media posts.
 
