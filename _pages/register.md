@@ -27,7 +27,7 @@ header:
 – Note: We will try to accommodate all abstract submissions within the oral presentation schedule, however if we receive more abstracts than there are available times we will not be able to provide a presentation opportunity for everyone<br/><br/>
 
 INSTRUCTIONS<br/>
-<li>Abstracts must be written in English and/or te reo Māori</li>
+<li>Abstracts can be written in English and/or te reo Māori</li>
 <li>Include in the abstract: Title, Presenting Author & Affiliations / address, Additional Authors & details, and the body of the abstract</li>
 <li>Abstracts will be submitted as an attachment (MS Word or similar format) to the e-mail: mapnet2019@vuw.ac.nz</li>
 <li>Title of Abstract has a 15 word limit</li>
