@@ -19,6 +19,10 @@ Session topics include:
 - Methodology advances in statistical genetics
 - Human & health genomics and epigenomics
 
+Invited speakers<br/>
+Dr. Libby Liggins, Massey University<br/>
+Dr. Joep de Ligt, ESR<br/>
+
 Email your abstract to <mapnet2019@vuw.ac.nz>
 
 Please send each abstract in a separate file and let us know which of the sessions you would like to present in.
