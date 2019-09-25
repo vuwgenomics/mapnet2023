@@ -22,6 +22,7 @@ Session topics include:
 Invited speakers<br/>
 Dr. Libby Liggins, Massey University<br/>
 Dr. Joep de Ligt, ESR<br/>
+Plus others TBC<br/>
 
 Email your abstract to <mapnet2019@vuw.ac.nz>
 
