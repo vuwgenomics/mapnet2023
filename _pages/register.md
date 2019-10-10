@@ -19,7 +19,7 @@ header:
 
 # Abstracts
 
-- The deadline for abstract submission is 5 pm on 27 September, 2019 
+- The deadline for abstract submission is 5 pm on 25 October, 2019 
 - Please note that we won’t accept abstracts without a conference registration
 - When you submit your abstract, please let us know which of the sessions you would like to present in
 - After paying for your registration, you can email your abstract to <mapnet2019@vuw.ac.nz>
