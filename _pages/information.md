@@ -9,7 +9,7 @@ header:
 
 ## Key dates
 
-| Deadline for abstract submission | 27 September, 2019 |
+| Deadline for abstract submission | 1 November, 2019 |
 | Registration closes | 1 November, 2019 |
 | MapNet | 18-19 November, 2019 | Start time 9:30 am Monday 18 Nov | Finish time 3:30 pm Tuesday 19 Nov |
 
