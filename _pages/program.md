@@ -22,7 +22,8 @@ Session topics include:
 Invited speakers<br/>
 Dr. Libby Liggins (Massey University) Ira Moana – Genes of the Sea – Network and Database <br/>
 Dr. Joep de Ligt (ESR) WGS to study patterns of genetic variation in human health and disease <br/>
-Plus others TBA<br/>
+Professor Tim Stinear (University of Melbourne) Genomics to understand the emergence of Buruli ulcer (Mycobacterium ulcerans infection) around Melbourne <br/>
+Xochitl Morgan (University of Otago) Persistence of a poultry-associated lineage of Vancomycin-resistant Enterococci <br/>
 
 Email your abstract to <mapnet2019@vuw.ac.nz>
 
