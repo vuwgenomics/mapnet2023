@@ -19,7 +19,7 @@ header:
 
 # Abstracts
 
-- The deadline for abstract submission is 5 pm on 1 November, 2019 
+- The deadline for abstract submission is 5 pm on 1 November, 2019 <br/>
 – Each speakers will be located 15 mins; as a guide plan to give a 12 min long presentation with 3 mins for questions<br/>
 - Please note that we won’t accept abstracts without a conference registration
 - When you submit your abstract, please let us know which of the sessions you would like to present in
