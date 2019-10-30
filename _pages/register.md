@@ -20,7 +20,7 @@ header:
 # Abstracts
 
 - The deadline for abstract submission is 5 pm on 1 November, 2019 <br/><br/>
-– Each speaker will be located 15 mins; as a guide plan to give a 12 min long presentation with 3 mins for questions<br/>
+Each speaker will be located 15 mins; as a guide plan to give a 12 min long presentation with 3 mins for questions<br/><br/>
 - Please note that we won’t accept abstracts without a conference registration
 - When you submit your abstract, please let us know which of the sessions you would like to present in
 - After paying for your registration, you can email your abstract to <mapnet2019@vuw.ac.nz>
