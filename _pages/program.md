@@ -32,7 +32,7 @@ Please send each abstract in a separate file and let us know which of the sessio
 Programme organising committee:
  Peter Ritchie (VUW), Miles Benton (ESR), Una Ren (ESR), Donia Macartney-Coxson (ESR),
  Yvan Papa (VUW), &
- Tom Oosting (VUW)
+ Phil Wilcox (Otago)
 
 The conference dinner will be at [The Backbencher Gastropub](http://www.backbencher.co.nz/) located at [34 Molesworth Street in Thorndon](https://goo.gl/maps/remHhKdHvp9sqDaDA) on the evening of Monday 18 November. The dinner is limited to 75 tickets and costs $45pp. Please get in quick with your MapNet2019 registeration if you would like to secure a seat for that event.
 
