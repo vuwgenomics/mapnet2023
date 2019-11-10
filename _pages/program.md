@@ -9,7 +9,7 @@ header:
 
 # Program
 
-[**Click here for the conference programme**](pdfs/MapNet2019programme.pdf).
+[**Click here for the conference programme**](https://vuwgenomics.github.io/mapnet2019.github.io/pdfs/MapNet2019programme.pdf).
 
 Session topics include:
 - Primary sector genotyping and breeding
