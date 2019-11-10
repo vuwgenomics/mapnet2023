@@ -9,7 +9,7 @@ header:
 
 # Program
 
-[**Click here for the conference programme**](../assets/MapNet2019programme.pdf).
+[**Click here for the conference programme**](/assets/MapNet2019programme.pdf).
 
 Session topics include:
 - Primary sector genotyping and breeding
