@@ -25,6 +25,10 @@ MapNet2019 themes include primary sector genomics, bioinformatics, integrating i
 
 ## Sponsors
 
+[![ILLUMINA](../assets/ILLUMINA_LOGO_RGB_new.jpg)](https://sapac.illumina.com/ggi){:target="_blank"}
+
+<span></span>
+
 [![CustomScience](../assets/CustomSci_Logo_CS4.png)](http://customscience.co.nz/){:target="_blank"}
 
 <span></span>
