@@ -1,6 +1,6 @@
 ---
 permalink: /
-Title: "Welcome to the 2019 MapNet workshop"
+Title: "Welcome to the 2023 MapNet workshop"
 excerpt: "Wellington, 18–19 November."
 header:
     overlay_image: "/assets/banner.png"
@@ -11,9 +11,9 @@ header:
 
 <span></span>
 
-# Welcome to the 2019 MapNet meeting
+# Welcome to the 2023 MapNet meeting
 
-MapNet2019 will be held in Wellington, New Zealand, at Victoria University of Wellington from November 18–19.
+MapNet2023 will be held in Wellington, New Zealand, at Victoria University of Wellington from November 18–19.
 
 [**Click here for the conference programme**](https://vuwgenomics.github.io/mapnet2019.github.io/pdfs/MapNet2019programme.pdf).
 
