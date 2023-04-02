@@ -5,21 +5,21 @@ minimal_mistakes_skin: "dirt"
 locale: "en-NZ"
 title_separator: "-"
 title: "MapNet 2019"
-description: "MapNet workshop 2019, Wellington"
+description: "MapNet workshop 2023, Wellington"
 url                      : "https://github.com/vuwgenomics"
 baseurl                  : "/"        
-repository               : "https://github.com/vuwgenomics/mapnet2019.github.io"
+repository               : "https://github.com/vuwgenomics/mapnet2023.github.io"
 teaser                   : "/assets/mapnet.jpg"
 words_per_minute         : 200
 
 # Site Author
 author:
-  name             : "MapNet 2019"
+  name             : "MapNet 2023"
   avatar           : "/assets/mapnet.jpg"
 
 # Hide feed
 atom_feed:
-  path: "https://github.com/vuwgenomics/mapnet2019.github.io"
+  path: "https://github.com/vuwgenomics/mapnet2023.github.io"
 
 # Reading Files
 include:
